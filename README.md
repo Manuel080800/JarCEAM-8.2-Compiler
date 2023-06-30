@@ -4,6 +4,23 @@
 
 The JarCEAM 8.2 Compiler is a compiler project for the future MP programming language. This compiler optimizes the input code, generates a symbol table, detects lexical and semantic errors, and produces a type table and assembly code.
 
+## Screenshots
+
+### Main Interface
+![Main Interface](resources/application.png)
+
+### Using fonts
+![Using fonts](resources/application-font.png)
+
+### Using multiple files
+![Using multiple files](resources/application-multitask.png)
+
+### Normal Interface
+![Normal Interface](resources/application-normal.png)
+
+### Extend Interface
+![Extend Interface](resources/application-extend.png)
+
 ## Features
 
 - Usage of the new MP programming language.
