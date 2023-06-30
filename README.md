@@ -1,6 +1,8 @@
 # JarCEAM 8.2 Compiler
 
-![JarCEAM Logo](resources/logo.png)
+<div align="center">
+  <img src="resources/logo.png" alt="JarCEAM Logo">
+</div>
 
 The JarCEAM 8.2 Compiler is a compiler project for the future MP programming language. This compiler optimizes the input code, generates a symbol table, detects lexical and semantic errors, and produces a type table and assembly code.
 
